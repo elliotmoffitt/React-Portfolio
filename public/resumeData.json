@@ -1,0 +1,147 @@
+{
+  "main": {
+    "name":"Elliot Moffitt",
+    "occupation":"Full-Stack Web Developer",
+    "description":"I've used technologies such as HTML, CSS, JavaScript, Node, Express, React, SQL, MongoDB, and more",
+    "image":"./images/unnamed.jpg",
+    "bio":"Over the past few months, I've been enrolled in UCF's Coding Bootcamp learning the foundation of full-stack web development, and have gained the necessary skills to perform well in this career.",
+    "contactmessage":"If you'd like to contact me, fill out the form below or call my phone number.",
+    "email": "elliot.winton@gmail.com",
+    "phone": "407-496-0250",
+    "address":{
+      "city":"Winter Garden",
+      "state":"Florida"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"./emresume.pdf",
+    "social":[
+
+
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/elliot-moffitt-b19b7119a/",
+        "className":"fa fa-linkedin"
+      },
+      
+      {
+        "name":"github",
+        "url":"https://github.com/elliotmoffitt",
+        "className":"fa fa-github"
+      }
+
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University?",
+        "degree":"Masters in Beer tasting",
+        "graduated":"April 2007",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"School #1 Maybe College?",
+        "degree":"What did you study 101",
+        "graduated":"March 2003",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2010 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2007 - February 2010",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Alien Town",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"technics-q-c-200-200-1.jpg",
+        "url":"http://mega-awesome.herokuapp.com/"
+      },
+      {
+        "title":"Real Estate App",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"technics-q-c-200-200-3.jpg",
+        "url":"https://j-nederveld.github.io/Real-Estate-App/"
+      },
+      {
+        "title":"Employee Tracker",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"technics-q-c-200-200-4.jpg",
+        "url":"https://elliotmoffitt.github.io/employee_tracker/"
+      },
+      {
+        "title":"Password Generator",
+        "category":"A React based resume website template",
+        "image":"technics-q-c-200-200-5.jpg",
+        "url":"https://elliotmoffitt.github.io/Password_Generator/"
+      },
+      {
+        "title":"Readme Generator",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"technics-q-c-200-200-8.jpg",
+        "url":"https://elliotmoffitt.github.io/Readme_Generator/"
+      },
+      {
+        "title":"Team HTML Builder",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"technics-q-c-200-200-9.jpg",
+        "url":"https://elliotmoffitt.github.io/teamHTMLBuilder/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
